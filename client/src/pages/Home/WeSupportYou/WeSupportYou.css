@@ -1,8 +1,3 @@
-/* 
-===============
-Section7
-=============== 
-*/
 .wesupportyou_main_container{
 	background-color: var(--main-bg-color);
 	display: flex;
@@ -21,7 +16,7 @@ Section7
 }
 
 .wesupportyou_text{
-    font-family: "NexaDemo-Light";
+    font-family: "NexaTextDemo-Light";
 	font-size: 20px;
 	margin-left: 60px;
 }
